@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vector database (Chroma)
+chroma_langchain_db/
+chrome_langchain_db/
+
+# Environment variables
+.env
